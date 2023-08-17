@@ -1,0 +1,89 @@
+time="2023-08-16 16:26:09" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:26:09" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:26:09" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:27:23" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:27:23" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:27:23" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg="Reporting span 5db428cc4746575c:5db428cc4746575c:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg="ERROR: failed to flush Jaeger spans to server: Post \"http://localhost:14268/api/traces\": dial tcp [::1]:14268: connect: connection refused" app-version=tile-map-server-v2
+time="2023-08-16 16:28:10" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:36:07" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:36:07" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:36:07" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:36:07" level=INFO source=:0 msg="Reporting span 77ed06fd7400b3dd:77ed06fd7400b3dd:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:36:07" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:40:34" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:40:34" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:40:34" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:40:34" level=INFO source=:0 msg="Reporting span 6a941b1ed7983a67:6a941b1ed7983a67:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:40:34" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:42:40" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:42:40" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:42:40" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:42:40" level=INFO source=:0 msg="Reporting span 16e4f050958bff27:16e4f050958bff27:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:42:40" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:42:50" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:42:50" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:42:50" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:42:50" level=INFO source=:0 msg="Reporting span 45d3dc7b23c1c3b6:45d3dc7b23c1c3b6:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:42:50" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:43:05" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:05" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:43:05" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:05" level=INFO source=:0 msg="Reporting span 55d7080cc2ea5953:55d7080cc2ea5953:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:43:05" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:43:32" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:32" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:43:32" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:32" level=INFO source=:0 msg="Reporting span 5c4a76668072dea4:5c4a76668072dea4:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:43:32" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:43:39" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:39" level=INFO source=:0 msg="Initializing logging reporter" app-version=tile-map-server-v2
+time="2023-08-16 16:43:39" level=INFO source=:0 msg="debug logging disabled" app-version=tile-map-server-v2
+time="2023-08-16 16:43:39" level=INFO source=:0 msg="Reporting span 791507b12143eddc:791507b12143eddc:0000000000000000:1" app-version=tile-map-server-v2
+time="2023-08-16 16:43:39" level=INFO source=:0 msg=<nil> app-version=tile-map-server-v2
+time="2023-08-16 16:48:44" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:48:44" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 16:48:44" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:48:44" level=INFO source=:0 msg="Reporting span 7cbb09fe95ee7473:7cbb09fe95ee7473:0000000000000000:1"
+time="2023-08-16 16:48:44" level=INFO source=:0 msg=<nil>
+time="2023-08-16 16:50:01" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:50:01" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 16:50:01" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:50:01" level=INFO source=:0 msg="Reporting span 2be953afa1663d53:2be953afa1663d53:0000000000000000:1"
+time="2023-08-16 16:50:01" level=INFO source=:0 msg=<nil>
+time="2023-08-16 16:57:24" level=INFO source=:0 msg=<nil>
+time="2023-08-16 16:58:41" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:58:41" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 16:58:41" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 16:58:41" level=INFO source=:0 msg="Reporting span 7955c860d02d6e6f:7955c860d02d6e6f:0000000000000000:1"
+time="2023-08-16 17:04:41" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:04:41" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 17:04:41" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:04:41" level=INFO source=:0 msg="Reporting span 35b912df8081f189:35b912df8081f189:0000000000000000:1"
+time="2023-08-16 17:04:41" level=INFO source=:0 msg="ERROR: failed to flush Jaeger spans to server: Post \"http://192.168.1.234:6831\": dial tcp 192.168.1.234:6831: connect: connection refused"
+time="2023-08-16 17:06:12" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:06:12" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 17:06:12" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:06:12" level=INFO source=:0 msg="Reporting span 740efbe354d8c820:740efbe354d8c820:0000000000000000:1"
+time="2023-08-16 17:10:09" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:10:09" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 17:10:09" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:10:09" level=INFO source=:0 msg="Reporting span 7bfa594d15e8d7a3:7bfa594d15e8d7a3:0000000000000000:1"
+time="2023-08-16 17:11:27" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:11:27" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 17:11:27" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:11:27" level=INFO source=:0 msg="Reporting span 387e654f896b73a8:387e654f896b73a8:0000000000000000:1"
+time="2023-08-16 17:12:01" level=INFO source=/Users/ruanlianjun/Code/golang/tile-map-server-v2/cmd/root.go:33 msg=opentracing_collection_endpoint endpoint=http://192.168.1.234:14268/api/traces
+time="2023-08-16 17:12:01" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:12:01" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 17:12:01" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 17:12:01" level=INFO source=:0 msg="Reporting span 7a8dd6681767e655:7a8dd6681767e655:0000000000000000:1"
+time="2023-08-16 18:28:57" level=INFO source=/Users/ruanlianjun/Code/golang/tile-map-server-v2/cmd/root.go:33 msg=opentracing_collection_endpoint endpoint=http://192.168.1.234:14268/api/traces
+time="2023-08-16 18:28:57" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 18:28:57" level=INFO source=:0 msg="Initializing logging reporter"
+time="2023-08-16 18:28:57" level=INFO source=:0 msg="debug logging disabled"
+time="2023-08-16 18:29:38" level=INFO source=:0 msg="Reporting span 5c9d36ce1c6559bf:5c9d36ce1c6559bf:0000000000000000:1"

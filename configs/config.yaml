@@ -1,0 +1,47 @@
+redis:
+  host: 192.168.1.234
+  port: 6379
+  db: 0
+  username: ""
+  password: "redis123"
+  timeout: "5s"
+  read_timeout: 2s
+  write_timeout: 2s
+  conn_min_idle: 10
+  conn_max_open: 20
+  conn_max_lifetime: 1h
+  conn_max_idletime: 1h
+  redis_prefix_key: "engine:tile-map:"
+tilers:
+  engine-studio:
+    imageUrl: xxxx
+    datasetUrl: xxx
+    storageType: s3
+    storageKind:
+      s3:
+        accessKey: xxxx
+        secretKey: xxxx
+        region: cn-northwest-1
+        endpoint: https://s3.cn-northwest-1.amazonaws.com.cn
+      obs:
+        accessKey: xxxx
+        secretKey: xxxx
+        region: cn-north-4
+        endpoint: https://obs.cn-north-4.myhuaweicloud.com
+      minio:
+        accessKey: server
+        secretKey: server123
+        region: cn-northwest-1
+        endpoint: http://xxxx
+
+# 水印配置
+watermark:
+  start_water: false
+  water_text: ""
+  water_level: 10
+  water_density: 4
+  water_font_size: 30
+  water_font_color: "#FF0000"
+  water_font_rotate: 0
+  water_font_merge_percent: 70
+  switch_img: true
