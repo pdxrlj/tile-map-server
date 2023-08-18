@@ -33,12 +33,13 @@ func Init(level ...slog.Level) {
 
 func FileWriter() *lumberjack.Logger {
 	fileWriter := &lumberjack.Logger{
-		Filename:   "./logs/tile.log",
-		MaxSize:    1,
-		MaxBackups: 3,
-		MaxAge:     28,
-		Compress:   true,
-		LocalTime:  true,
+		Filename:         "./logs/tile.log",
+		MaxSize:          1,
+		MaxBackups:       3,
+		MaxAge:           28,
+		Compress:         true,
+		LocalTime:        true,
+		BackupTimeFormat: time.DateTime,
 	}
 
 	return fileWriter
